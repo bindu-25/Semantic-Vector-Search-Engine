@@ -69,6 +69,11 @@ The focus is on understanding the working principles, not building a domain-spec
     ├── pmc_client.py
     ├── embedding_cache.py
     ├── api.py
+    ├── evaluation/
+    |   ├── run_test.py
+    │   ├── baseline_tfidf.py
+    │   ├── evaluate_relevance.py
+    │   └── benchmark_latency.py
     ├── requirements.txt
     └── README.md
 
